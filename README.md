@@ -1,4 +1,4 @@
-# YtId - Youtube Id Extractor
+# YTId - Youtube Id Extractor
 
 ## Installation
 
